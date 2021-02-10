@@ -114,18 +114,10 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: images/clients-logo/client-logo-1.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-2.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-3.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-4.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-5.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-1.png
-    URL: "#"
+  - logo: author
+    URL: "/images/about/author.jpg"
+  - logo: cofee
+    URL: "/images/blog/post-5.jpg"
   - logo: images/clients-logo/client-logo-2.png
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-3.png
